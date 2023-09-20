@@ -1,4 +1,7 @@
-# Atividades da disciplina E-commerce
+# Membros do grupo
+1 - Ana Luiza Vieira
+2 - Vinícius Carvalho
+3 - Larissa Martins
 
 Olá, pessoal. Tudo bem?
 
