@@ -3,6 +3,10 @@
 2 - Vinícius Carvalho
 3 - Larissa Martins
 
+
+
+**ALTERAÇÃO REALIZADA PELO NAVEGADOR**
+
 Olá, pessoal. Tudo bem?
 
 Vamos utilizar esse espaço para armazenarmos nossos códigos. 
